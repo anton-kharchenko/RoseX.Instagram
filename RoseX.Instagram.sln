@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoseX.Instagram.Infrastruct
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4EC54F72-467E-4AC9-AF02-01B9A6FD16B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoseX.Instagram.DataAccess", "RoseX.Instagram.DataAccess\RoseX.Instagram.DataAccess.csproj", "{2A2ACE48-7D79-4570-A039-3F34E92936F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{E1B4CD26-AA14-472E-8B18-119F4C9EBBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1B4CD26-AA14-472E-8B18-119F4C9EBBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1B4CD26-AA14-472E-8B18-119F4C9EBBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2ACE48-7D79-4570-A039-3F34E92936F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2ACE48-7D79-4570-A039-3F34E92936F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2ACE48-7D79-4570-A039-3F34E92936F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2ACE48-7D79-4570-A039-3F34E92936F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2AADBC3D-2CFD-446D-887C-D0274B6EDE25} = {5C574D45-143E-480B-ACC4-305587D2EABB}
